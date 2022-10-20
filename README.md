@@ -5,7 +5,6 @@
 A Nutty Green VSCode Theme
 
 
-![](/images/PistachioMadness.png)
 
 
 ##  Install Instructions
