@@ -1,0 +1,26 @@
+{
+  "name": "kims-theme",
+  "displayName": "kims_theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "yubiDev",
+  "repository": {
+    "type": "git",
+    "directory": ""
+  },
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kims_theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pistachio-madness-color-theme.json"
+      }
+    ]
+  }
+}
