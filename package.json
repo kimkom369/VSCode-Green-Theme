@@ -6,7 +6,7 @@
   "publisher": "yubiDev",
   "repository": {
     "type": "git",
-    "directory": ""
+    "directory": "https://github.com/kimkom369/VSCode-Green-Theme.git"
   },
   "engines": {
     "vscode": "^1.72.0"
