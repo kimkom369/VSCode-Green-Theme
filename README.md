@@ -5,7 +5,7 @@
 A Nutty Green VSCode Theme
 
 
- --baseImagesUrl ['/images/PistachioMadness.png]
+ ![PistachioMadness.png](https://github.com/kimkom369/VSCode-Green-Theme/blob/main/images/PistachioMadness.png)
 
 
 

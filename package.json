@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "yubiDev",
+  "icon": "images/pistachioyubiDev.png",
   "repository": {
     "type": "git",
     "directory": "https://github.com/kimkom369/VSCode-Green-Theme.git"
