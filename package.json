@@ -1,6 +1,6 @@
 {
-  "name": "Pistachio Madness",
-  "displayName": "Pistachio Madness",
+  "name": "pistachio-madness-theme",
+  "displayName": "pistachio-madness-theme",
   "description": "",
   "version": "0.0.1",
   "publisher": "yubiDev",
@@ -14,8 +14,8 @@
     "dark theme",
     "pastel theme",
     "olive",
-    "nature",
-    "forest"
+    "forest",
+    "nature"
   ],
   "engines": {
     "vscode": "^1.72.0"
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "kims_theme",
+        "label": "Pistachio madness",
         "uiTheme": "vs-dark",
         "path": "./themes/pistachio-madness-color-theme.json"
       }

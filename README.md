@@ -1,10 +1,23 @@
-# Pistachio Madness Theme README
+# Pistachio Madness
 
-## You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Description
+A Nutty Green VSCode Theme
+
+
+ --baseImagesUrl ['/images/PistachioMadness.png]
+
+
+
+##  Install Instructions
+
+ * Go to VS Marketplace.
+ * Click on the "Install" button.
+
+
+ ## Author
+
+**YubiDev**
 
 
 **Enjoy!**
