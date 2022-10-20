@@ -1,6 +1,6 @@
 {
-  "name": "kims-theme",
-  "displayName": "kims_theme",
+  "name": "Pistachio Madness",
+  "displayName": "Pistachio Madness",
   "description": "",
   "version": "0.0.1",
   "publisher": "yubiDev",
@@ -8,6 +8,15 @@
     "type": "git",
     "directory": "https://github.com/kimkom369/VSCode-Green-Theme.git"
   },
+  "keywords": [
+    "theme",
+    "green",
+    "dark theme",
+    "pastel theme",
+    "olive",
+    "nature",
+    "forest"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
