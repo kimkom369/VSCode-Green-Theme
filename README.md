@@ -5,6 +5,8 @@
 A Nutty Green VSCode Theme
 
 
+ ![PistachioMadness.png](https://raw.githubusercontent.com/kimkom369/VSCode-Green-Theme/main/images/PistachioMadness.png)
+
 
 
 ##  Install Instructions
@@ -15,7 +17,7 @@ A Nutty Green VSCode Theme
 
  ## Author
 
-**YubiDev**
+**yooBdev**
 
 
 **Enjoy!**

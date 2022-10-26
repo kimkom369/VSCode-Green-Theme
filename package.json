@@ -1,9 +1,10 @@
 {
   "name": "pistachio-madness-theme",
-  "displayName": "pistachio-madness-theme",
+  "displayName": "Pistachio Madness",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "yubiDev",
+  "icon": "images/yoobdev.png",
   "repository": {
     "type": "git",
     "directory": "https://github.com/kimkom369/VSCode-Green-Theme.git"
